@@ -1,0 +1,14 @@
+C:\Practice\NumericLeapFrog\NumericLeapFrog\bin\Debug\net10.0\NumericLeapFrog.exe
+C:\Practice\NumericLeapFrog\NumericLeapFrog\bin\Debug\net10.0\NumericLeapFrog.deps.json
+C:\Practice\NumericLeapFrog\NumericLeapFrog\bin\Debug\net10.0\NumericLeapFrog.runtimeconfig.json
+C:\Practice\NumericLeapFrog\NumericLeapFrog\bin\Debug\net10.0\NumericLeapFrog.dll
+C:\Practice\NumericLeapFrog\NumericLeapFrog\bin\Debug\net10.0\NumericLeapFrog.pdb
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\NumericLeapFrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\NumericLeapFrog.AssemblyInfoInputs.cache
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\NumericLeapFrog.AssemblyInfo.cs
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\NumericLeapFrog.csproj.CoreCompileInputs.cache
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\NumericLeapFrog.dll
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\refint\NumericLeapFrog.dll
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\NumericLeapFrog.pdb
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\NumericLeapFrog.genruntimeconfig.cache
+C:\Practice\NumericLeapFrog\NumericLeapFrog\obj\Debug\net10.0\ref\NumericLeapFrog.dll
